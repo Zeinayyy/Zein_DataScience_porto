@@ -7,4 +7,5 @@
 
 ### Project
 -[Citizen Feedback App](https://github.com/Zeinayyy/Citizen_Feedback_App)
+> Sebuah Aplikasi agar Masyarakat bisa menyampaikan Feedback nya terhadap Pemerintah, Dilengkapi dengan Teknologi Machine Learning Natural Language Processing
 
