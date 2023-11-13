@@ -5,7 +5,13 @@
 - IT Students @ Institut Teknologi Garut
 - Bangkit Alumni  Machine Learning Path
 
-### Project
--[Citizen Feedback App](https://github.com/Zeinayyy/Citizen_Feedback_App)
-> Sebuah Aplikasi agar Masyarakat bisa menyampaikan Feedback nya terhadap Pemerintah, Dilengkapi dengan Teknologi Machine Learning Natural Language Processing
+## Project
+### [Citizen Feedback App](https://github.com/Zeinayyy/Citizen_Feedback_App)
+
+- Sebuah Aplikasi untuk Memberikan Feedback ke Pemerintah
+- Powered by Machine Learning Algorithm (NLP & BERT)
+- Bisa Mengklasifikasi mana isu yang Urgent dan non-urgent dengan AI dan Analisis Sentimen
+- Dataset Bersumber dari Twitter  (Scrapping) dengan jumlah lebih dari 1000
+
+
 
