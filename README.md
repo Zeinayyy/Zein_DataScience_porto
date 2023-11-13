@@ -16,6 +16,10 @@
 ### [Customer Churn Detection](https://github.com/Zeinayyy/Churn-Detection)
 Model ML ini mendeteksi Customer Churn, Deteksi churn mengacu pada proses mengidentifikasi pelanggan atau pengguna yang cenderung meninggalkan produk atau layanan suatu perusahaan. "Churn" sendiri merujuk pada kehilangan pelanggan atau pengguna, yang dapat terjadi karena berbagai alasan seperti ketidakpuasan, persaingan dengan produk lain, perubahan kebutuhan pelanggan, atau faktor-faktor lain yang membuat mereka beralih ke solusi atau layanan yang lain.
 
+![](https://github.com/Zeinayyy/Churn-Detection/blob/main/image/churn.png)
+![SVM Training](https://github.com/Zeinayyy/Churn-Detection/blob/main/image/SVM_Training.png)
+![SVM Testing](https://github.com/Zeinayyy/Churn-Detection/blob/main/image/SVM_Testing.png)
+
 
 
 
