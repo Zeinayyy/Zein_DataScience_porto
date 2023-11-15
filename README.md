@@ -16,4 +16,7 @@
 ### [Customer Churn Detection](https://github.com/Zeinayyy/Churn-Detection)
 Model ML ini mendeteksi Customer Churn, Deteksi churn mengacu pada proses mengidentifikasi pelanggan atau pengguna yang cenderung meninggalkan produk atau layanan suatu perusahaan. "Churn" sendiri merujuk pada kehilangan pelanggan atau pengguna, yang dapat terjadi karena berbagai alasan seperti ketidakpuasan, persaingan dengan produk lain, perubahan kebutuhan pelanggan, atau faktor-faktor lain yang membuat mereka beralih ke solusi atau layanan yang lain.
 
+### [Sunspot Prediction dengan menggunakan CNN - RNN](https://github.com/Zeinayyy/Sunspot-Prediction/tree/main)
+Ini adalah Model machine learning untuk memprediksi Sunspot dengan Convolutional Neural Network dan Recurrent Neural Network, Prediksi Sunspot mengacu pada ramalan atau perkiraan aktivitas matahari, khususnya kejadian dan karakteristik bintik-bintik matahari di permukaan Matahari. Bintik matahari adalah fenomena sementara di fotosfer Matahari yang muncul sebagai titik yang lebih gelap dibandingkan dengan area sekitarnya. Mereka disebabkan oleh aktivitas magnetik Matahari dan sering terjadi dalam siklus yang dikenal sebagai siklus surya, yang berlangsung sekitar 11 tahun.
+
 
