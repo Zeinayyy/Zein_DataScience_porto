@@ -23,4 +23,4 @@ Model ML ini mendeteksi Customer Churn, Deteksi churn mengacu pada proses mengid
 ### [Sunspot Prediction dengan menggunakan CNN - RNN](https://github.com/Zeinayyy/Sunspot-Prediction/tree/main)
 Ini adalah Model machine learning untuk memprediksi Sunspot dengan Convolutional Neural Network dan Recurrent Neural Network, Prediksi Sunspot mengacu pada ramalan atau perkiraan aktivitas matahari, khususnya kejadian dan karakteristik bintik-bintik matahari di permukaan Matahari. Bintik matahari adalah fenomena sementara di fotosfer Matahari yang muncul sebagai titik yang lebih gelap dibandingkan dengan area sekitarnya. Mereka disebabkan oleh aktivitas magnetik Matahari dan sering terjadi dalam siklus yang dikenal sebagai siklus surya, yang berlangsung sekitar 11 tahun.
 
-
+![sunspot](assets/testset.png)
