@@ -24,3 +24,7 @@ Model ML ini mendeteksi Customer Churn, Deteksi churn mengacu pada proses mengid
 Ini adalah Model machine learning untuk memprediksi Sunspot dengan Convolutional Neural Network dan Recurrent Neural Network, Prediksi Sunspot mengacu pada ramalan atau perkiraan aktivitas matahari, khususnya kejadian dan karakteristik bintik-bintik matahari di permukaan Matahari. Bintik matahari adalah fenomena sementara di fotosfer Matahari yang muncul sebagai titik yang lebih gelap dibandingkan dengan area sekitarnya. Mereka disebabkan oleh aktivitas magnetik Matahari dan sering terjadi dalam siklus yang dikenal sebagai siklus surya, yang berlangsung sekitar 11 tahun.
 
 ![sunspot](assets/testset.png)
+
+### [Bisindo Gesture Classification Using SSDMOBILENET V2 and Tensorflow Object Detection API](https://github.com/Zeinayyy/Klasifikasi_BISINDO/tree/main)
+Dibuat dengan menggunakan Model pra-latih SSDMOBILENET V2 dan API Tensorflow Object Detection, Model ini memungkinkan untuk mengklasifikasi gesture alfabet bahasa isyarat Bahasa isyarat Indonesia Secara Langsung
+
