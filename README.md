@@ -27,4 +27,4 @@ Ini adalah Model machine learning untuk memprediksi Sunspot dengan Convolutional
 
 ### [Bisindo Gesture Classification Using SSDMOBILENET V2 and Tensorflow Object Detection API](https://github.com/Zeinayyy/Klasifikasi_BISINDO/tree/main)
 Dibuat dengan menggunakan Model pra-latih SSDMOBILENET V2 dan API Tensorflow Object Detection, Model ini memungkinkan untuk mengklasifikasi gesture alfabet bahasa isyarat Bahasa isyarat Indonesia Secara Langsung
-
+![sampledetection](assets/photo_2024-06-26_13-25-09.jpg)
